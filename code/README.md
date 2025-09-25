@@ -5,9 +5,8 @@ This folder contains the MATLAB live scripts for the **Netflix database capstone
 ---
 
 ## Files
-- `ldr_analysis.mlx` → Main Live Script for running the analysis  
-- `utils.m` (if any) → Helper functions  
-- `sample_data.csv` → Example dataset (optional)  
+- `Netflix_Database_Capstone_Project.mlx` → Main Live Script for running the analysis  
+- `NetflixUserbase.csv` → Example dataset  
 
 ---
 
@@ -22,11 +21,10 @@ This folder contains the MATLAB live scripts for the **Netflix database capstone
 ## Steps to Run
 1. Open MATLAB  
 2. Navigate to this `code/` folder  
-3. Open `ldr_analysis.mlx`  
+3. Open `Netflix_Database_Capstone_Project.mlx`  
 4. Click **Run All** at the top  
 
 ---
 
 ## Notes
-- To use your own data, replace `sample_data.csv` with your file and update the path in the script.  
-- Outputs include illumination plots, lux calculations, and comparisons between different light sources.  
+- To use your own data, replace `NetflixUserbase.csv` with your file and update the path in the script.  
